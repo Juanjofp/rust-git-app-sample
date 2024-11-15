@@ -1,0 +1,8 @@
+[package]
+name = "git-app"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+git-info = { git = "https://github.com/Juanjofp/git-info-rust.git", branch = "main" }
+
